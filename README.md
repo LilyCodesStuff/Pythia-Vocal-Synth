@@ -6,5 +6,6 @@ You can use this at school, as long as your school allows for python (Which most
 Requirements:
 Python
 PyQt6
+Mido
 
 that's all for now
